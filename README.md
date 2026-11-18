@@ -55,4 +55,13 @@ Duration, Stops & Time-of-Day Analysis (Q47–Q54): Pearson/Spearman correlation
 Fare Prediction Model: Random Forest Regressor trained to predict ticket fares based on route, airline, class, stops, duration, and booking lead time.
 
 
+## How to Run Locally
+1. **Clone the repository:**
+   `git clone https://github.com/Akhil200834/Indian-Flight-Fare-Analysis-and-Predictions.git`
+2. **Navigate to the project directory:**
+   `cd Indian-Flight-Fare-Analysis-and-Predictions`
+3. **Install the required dependencies:**
+   `pip install -r requirements.txt`
+4. **Execute the analysis notebook:**
+   Open `notebooks/flight_analysis.ipynb` in VS Code or Jupyter Notebook and click **Run All** to reproduce all 54 EDA outputs, visualizations, and Random Forest model predictions.
 
