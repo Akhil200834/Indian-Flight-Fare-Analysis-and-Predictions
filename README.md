@@ -54,6 +54,11 @@ Duration, Stops & Time-of-Day Analysis (Q47–Q54): Pearson/Spearman correlation
 
 Fare Prediction Model: Random Forest Regressor trained to predict ticket fares based on route, airline, class, stops, duration, and booking lead time.
 
+## Predictive Model Results
+R² Score: 0.9763
+MAE: ₹1792.13
+RMSE: ₹3498.24
+
 
 ## How to Run Locally
 1. **Clone the repository:**
